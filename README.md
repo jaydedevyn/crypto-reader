@@ -9,7 +9,7 @@ This repository contains a ReactJS and Redux application that pulls real-time da
 To get started, first clone this repository to your local machine:
 
 ```
-git clone https://github.com/username/react-redux-order-book.git
+git clone https://github.com/jaydedevyn/crypto-reader.git
 ```
 
 Next, install the required packages using npm:
