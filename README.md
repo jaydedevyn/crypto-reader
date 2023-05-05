@@ -20,14 +20,7 @@ npm install
 
 ## Running the Application
 
-To run the application, you will need to provide your Bitfinex API credentials in the `.env` file. Create a new file named `.env` in the root directory of the project and add your API credentials in the following format:
-
-```
-REACT_APP_API_KEY=your_api_key_here
-REACT_APP_API_SECRET=your_api_secret_here
-```
-
-Once you have added your API credentials, you can start the application using the following command:
+You can start the application using the following command:
 
 ```
 npm start
